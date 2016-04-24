@@ -1,0 +1,34 @@
+name = Standard
+description = Install with commonly used features pre-configured.
+version = BACKDROP_VERSION
+backdrop = 1.x
+dependencies[] = node
+dependencies[] = admin_bar
+dependencies[] = block
+dependencies[] = ckeditor
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = config
+dependencies[] = contextual
+dependencies[] = date
+dependencies[] = email
+dependencies[] = image
+dependencies[] = layout
+dependencies[] = link
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = views
+dependencies[] = views_ui
+
+; Added by Backdrop CMS packaging script on 2016-04-20
+project = backdrop
+version = 1.3.5
+timestamp = 1461187948
