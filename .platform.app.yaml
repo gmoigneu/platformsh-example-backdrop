@@ -32,7 +32,8 @@ disk: 2048
 
 # The mounts that will be performed when the package is deployed.
 mounts:
-    "/files": "shared:files/files"
+    "/public/files": "shared:files/files"
+    "/public/private": "shared:files/files"
 
 # The hooks that will be performed when the package is deployed.
 #hooks:
